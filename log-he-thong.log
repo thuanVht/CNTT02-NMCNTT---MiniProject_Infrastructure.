@@ -1,0 +1,60 @@
+2026-10-27 00:00:00.007 [INFO] sensor-gw-02 GET /export/csv 200 224ms
+2026-10-27 00:00:00.022 [INFO] web-01 GET /export/csv 200 363ms
+2026-10-27 00:00:00.057 [INFO] sensor-gw-01 Nhan du lieu tram ST-072 nhiet_do=24.2 do_am=91
+2026-10-27 00:00:00.090 [ERROR] sensor-gw-02 TIMEOUT sau 30000ms khi goi tram ST-062
+2026-10-27 00:00:00.118 [INFO] web-02 GET /api/readings 200 142ms
+2026-10-27 00:00:00.157 [INFO] db-01 GET /api/devices 200 255ms
+2026-10-27 00:00:00.174 [WARN] sensor-gw-02 Bo nho su dung 87%
+2026-10-27 00:00:00.202 [INFO] sensor-gw-01 Nhan du lieu tram ST-085 nhiet_do=24.3 do_am=91
+2026-10-27 00:00:00.209 [ERROR] db-01 GET /export/report-2019.pdf 404 Not Found
+2026-10-27 00:00:00.226 [INFO] sensor-gw-01 Nhan du lieu tram ST-024 nhiet_do=27.6 do_am=44
+2026-10-27 00:00:00.244 [ERROR] db-01 GET /api/v0/readings 404 Not Found
+2026-10-27 00:00:00.271 [ERROR] web-02 GET /api/sensor-old 404 Not Found
+2026-10-27 00:00:00.272 [ERROR] db-01 GET /api/sensor-old 404 Not Found
+2026-10-27 00:00:00.312 [WARN] web-02 Bo nho su dung 92%
+2026-10-27 00:00:00.347 [INFO] sensor-gw-01 Nhan du lieu tram ST-086 nhiet_do=21.1 do_am=60
+2026-10-27 00:00:00.385 [WARN] sensor-gw-01 Bo nho su dung 82%
+2026-10-27 00:00:00.420 [INFO] web-02 GET /login 200 306ms
+2026-10-27 00:00:00.426 [ERROR] db-01 TIMEOUT sau 30000ms khi goi tram ST-086
+2026-10-27 00:00:00.435 [INFO] sensor-gw-01 GET /api/readings 200 264ms
+2026-10-27 00:00:00.469 [ERROR] web-02 TIMEOUT sau 30000ms khi goi tram ST-049
+2026-10-27 00:00:00.476 [ERROR] db-01 GET /img/logo-cu.png 404 Not Found
+2026-10-27 00:00:00.499 [WARN] web-01 Do tre cao 2198ms tai /login
+2026-10-27 00:00:00.528 [INFO] sensor-gw-01 Nhan du lieu tram ST-016 nhiet_do=29.4 do_am=91
+2026-10-27 00:00:00.539 [INFO] web-02 GET /dashboard 200 271ms
+2026-10-27 00:00:00.569 [CRITICAL] db-01 Dung luong dia con 4%, sap day
+2026-10-27 00:00:00.582 [CRITICAL] db-01 Dung luong dia con 4%, sap day
+2026-10-27 00:00:00.613 [ERROR] sensor-gw-02 TIMEOUT sau 30000ms khi goi tram ST-087
+2026-10-27 00:00:00.622 [CRITICAL] sensor-gw-02 Mat ket noi tram ST-068 hon 10 phut
+2026-10-27 00:00:00.647 [INFO] api-01 GET /api/stations 200 277ms
+2026-10-27 00:00:00.672 [INFO] api-01 GET /export/csv 200 181ms
+2026-10-27 00:00:00.704 [INFO] db-01 GET /export/csv 200 244ms
+2026-10-27 00:00:00.733 [INFO] sensor-gw-01 Nhan du lieu tram ST-068 nhiet_do=34.3 do_am=94
+2026-10-27 00:00:00.747 [INFO] sensor-gw-01 Nhan du lieu tram ST-001 nhiet_do=30.9 do_am=66
+2026-10-27 00:00:00.782 [INFO] sensor-gw-02 GET /api/readings 200 18ms
+2026-10-27 00:00:00.805 [ERROR] sensor-gw-01 TIMEOUT sau 30000ms khi goi tram ST-088
+2026-10-27 00:00:00.840 [ERROR] web-02 GET /img/logo-cu.png 404 Not Found
+2026-10-27 00:00:00.876 [INFO] sensor-gw-01 Nhan du lieu tram ST-094 nhiet_do=29.3 do_am=82
+2026-10-27 00:00:00.912 [INFO] web-02 GET /api/alerts 200 140ms
+2026-10-27 00:00:00.923 [ERROR] web-01 GET /img/logo-cu.png 404 Not Found
+2026-10-27 00:00:00.935 [INFO] sensor-gw-01 Nhan du lieu tram ST-081 nhiet_do=23.5 do_am=93
+2026-10-27 00:00:00.940 [INFO] api-01 GET /api/stations 200 87ms
+2026-10-27 00:00:00.941 [INFO] db-01 GET /api/sensors 200 136ms
+2026-10-27 00:00:00.945 [WARN] web-01 Do tre cao 992ms tai /dashboard
+2026-10-27 00:00:00.966 [INFO] sensor-gw-01 Nhan du lieu tram ST-078 nhiet_do=30.3 do_am=65
+2026-10-27 00:00:00.987 [INFO] sensor-gw-01 GET /api/stations 200 309ms
+2026-10-27 00:00:01.011 [INFO] sensor-gw-01 GET /dashboard 200 133ms
+2026-10-27 00:00:01.015 [ERROR] sensor-gw-02 GET /api/sensor-old 404 Not Found
+2026-10-27 00:00:01.034 [WARN] sensor-gw-02 Bo nho su dung 92%
+2026-10-27 00:00:01.042 [INFO] api-01 GET /api/sensors 200 218ms
+2026-10-27 00:00:01.077 [CRITICAL] db-01 Dung luong dia con 1%, sap day
+2026-10-27 00:00:01.117 [INFO] web-01 GET /dashboard 200 24ms
+2026-10-27 00:00:01.156 [INFO] sensor-gw-02 GET /api/readings 200 159ms
+2026-10-27 00:00:01.179 [CRITICAL] sensor-gw-02 Mat ket noi tram ST-050 hon 10 phut
+2026-10-27 00:00:01.188 [INFO] sensor-gw-01 Nhan du lieu tram ST-070 nhiet_do=36.7 do_am=83
+2026-10-27 00:00:01.224 [INFO] db-01 GET /api/sensors 200 80ms
+2026-10-27 00:00:01.242 [INFO] sensor-gw-01 GET /dashboard 200 218ms
+2026-10-27 00:00:01.251 [INFO] sensor-gw-01 Nhan du lieu tram ST-076 nhiet_do=29.1 do_am=81
+2026-10-27 00:00:01.284 [INFO] sensor-gw-01 Nhan du lieu tram ST-044 nhiet_do=32.9 do_am=43
+2026-10-27 00:00:01.285 [INFO] sensor-gw-02 GET /api/devices 200 245ms
+2026-10-27 00:00:01.318 [ERROR] web-02 GET /img/logo-cu.png 404 Not Found

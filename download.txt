@@ -1,0 +1,5 @@
+# Mau cau hinh. Sao chep thanh .env roi dien gia tri that. KHONG commit file .env.
+DB_HOST=localhost
+DB_USER=greentech_admin
+DB_PASSWORD=doi_mat_khau_o_day
+API_KEY=doi_api_key_o_day
